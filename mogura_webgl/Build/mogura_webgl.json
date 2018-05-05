@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "mogura_tataki",
+"dataUrl": "mogura_webgl.data.unityweb",
+"asmCodeUrl": "mogura_webgl.asm.code.unityweb",
+"asmMemoryUrl": "mogura_webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "mogura_webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
